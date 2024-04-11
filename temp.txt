@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <!-- header -->
+
+    <header class="header">
+
+        <div class="logo">
+            <p>Portfolio</p>
+        </div>
+
+        <nav class="nav">
+
+            <ul class="nav-links">
+                <li>Home</li>
+                <li>services</li>
+                <li>Quote</li>
+                <li>Clients</li>
+            </ul>
+        </nav>
+
+
+    </header>
+
+
+    <!-- banner -->
+
+
+    <section class="banner">
+        <div class="details">
+            <p class="t1">
+                I am,
+            </p>
+            <p class="t2">
+                Madhushankha De Silva
+            </p>
+            <p
+            class="desc">
+                Developer
+            </p>
+            <button class="cta">
+                Contact me
+
+            </button>
+        </div>
+
+        <div class="profile-photo">
+            <img src="./IMG_8507.jpg" class="profile-png">
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- services -->
+
+    <section class="services">
+        <h1 class="service-i-provide">Services I provide</h1>
+
+        <div class="service-child">
+
+            <div class="service1">
+                <i class="fa-solid fa-laptop icon" ></i>
+
+                <h2> Web Development</h2>
+
+                <p>
+                    Web page . Contact form                
+                </p>
+
+                <button>View More</button>
+
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- achievement -->
+    
+
+
+    <!-- footer -->
+
+
+</body>
+</html>
